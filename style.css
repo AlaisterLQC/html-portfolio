@@ -1,0 +1,51 @@
+html {
+    background-color: #E5E5CB;
+}
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    border-top: 15px solid white;
+}
+
+#intro {
+    color: #3C2A21;
+    font-size: 15px;
+    padding: 15px;
+    margin-left: 1px;
+}
+
+.summary {
+    color: #3C2A21;
+    background-color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    padding: 8px;
+    background-color: #3C2A21;
+    width: 200px;
+    margin-left: 8px;
+}
+
+h3 {
+    color: #3C2A21;
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+p {
+    margin-left: 30px;
+}
+
+img {
+    margin-left: 9px;
+    width: 50px;
+    height: auto
+  }
