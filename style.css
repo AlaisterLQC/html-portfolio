@@ -1,0 +1,84 @@
+html {
+    background-color: #E5E5CB;
+}
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    position: relative;
+    top: 12px;
+    border-top: 15px solid white;
+}
+
+#intro {
+    color: #3C2A21;
+    font-size: 17px;
+    padding: 15px;
+    margin-left: 1px;
+    max-width: 648px;
+}
+
+.summary {
+    color: #3C2A21;
+    background-color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    padding: 8px;
+    background-color: #3C2A21;
+    width: 200px;
+    margin-left: 8px;
+}
+
+h3 {
+    color: #3C2A21;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-left: 15px;
+}
+
+
+
+img {
+    width: 45px;
+    height: auto
+  }
+
+
+.expbox {
+    position: relative;
+    bottom: 18px;
+}
+
+.tenure {
+    font-size: 14px;
+    position: relative;
+    top: 11px;
+}
+
+.tasks {
+    font-size: 15px;
+    position: relative;
+    bottom: 10px;
+    max-width: 550px;
+}
+
+.skills {
+    margin-left: 30px;
+    position: relative;
+    bottom: 9px;
+    max-width: 550px;
+}
+
+.contacticon {
+    position: relative;
+    left: 8px;
+    bottom: 10px
+}
